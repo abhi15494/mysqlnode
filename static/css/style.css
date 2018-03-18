@@ -1,0 +1,18 @@
+.block-center > div{
+    float: none;
+    margin: 0 auto;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+}
+
+footer{    
+    text-align: center;
+    background-color: #555;
+    padding: 20px;
+    color: white;
+}
